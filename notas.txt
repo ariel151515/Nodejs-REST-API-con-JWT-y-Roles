@@ -1,0 +1,20 @@
+npm init -y (para crear el package.json)
+npm i express 
+      bcrypt 
+      cors 
+      dotenv (variables de entorno)
+      jsonwebtoken
+      mongoose 
+      morgan ( SIRVE PARA PODER VER POR CONSOLA LAS CONSULTAS O PETICIONES QUE VAN LLEGANDO A NUESTRO SERVIDOR)
+      nodemon 
+      helmet (SEGURIDAD)
+
+
+Nodejs REST API con JWT y Roles (Autorización y Autenticación) & Mongodb
+https://www.youtube.com/watch?v=lV7mxivGX_I  (me quede en los roles, 1h ,)
+
+https://www.youtube.com/watch?v=_O5TyDQ5OXk
+
+https://www.youtube.com/watch?v=OHlv0hCPkTM
+
+
